@@ -1,0 +1,12 @@
+﻿  words-chain-game.cpp
+D:\Adil's Data\Github Projects\words-chain-game\words-chain-game\words-chain-game.cpp(345,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Adil's Data\Github Projects\words-chain-game\words-chain-game\words-chain-game.cpp(369,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Adil's Data\Github Projects\words-chain-game\words-chain-game\words-chain-game.cpp(374,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Adil's Data\Github Projects\words-chain-game\words-chain-game\words-chain-game.cpp(540,22): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Adil's Data\Github Projects\words-chain-game\words-chain-game\words-chain-game.cpp(542,22): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Adil's Data\Github Projects\words-chain-game\words-chain-game\words-chain-game.cpp(570,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Adil's Data\Github Projects\words-chain-game\words-chain-game\words-chain-game.cpp(710,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Adil's Data\Github Projects\words-chain-game\words-chain-game\words-chain-game.cpp(724,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Adil's Data\Github Projects\words-chain-game\words-chain-game\words-chain-game.cpp(801,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Adil's Data\Github Projects\words-chain-game\words-chain-game\words-chain-game.cpp(832,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  words-chain-game.vcxproj -> D:\Adil's Data\Github Projects\words-chain-game\x64\Debug\words-chain-game.exe

@@ -1,0 +1,12 @@
+adil | Score: 10 | Category: MIXED | Date: Wed Dec 24 22:13:21 2025
+adil | Score: 0 | Category: ANIMALS | Date: Wed Dec 24 22:32:36 2025
+adil | Score: 0 | Category: ANIMALS | Date: Wed Dec 24 22:35:27 2025
+adil | Score: 0 | Category: ANIMALS | Date: Thu Dec 25 07:50:28 2025
+adil | Score: 0 | Category: ANIMALS | Date: Thu Dec 25 08:33:33 2025
+adil | Score: 0 | Category: ANIMALS | Date: Thu Dec 25 08:34:58 2025
+adil | Score: 0 | Category: ANIMALS | Date: Thu Dec 25 14:52:43 2025
+adil | Score: 0 | Category: COUNTRIES | Date: Thu Dec 25 15:05:28 2025
+adil | Score: 0 | Category: COUNTRIES | Date: Thu Dec 25 15:06:19 2025
+adil | Score: 0 | Category: COUNTRIES | Date: Thu Dec 25 15:07:06 2025
+adil | Score: 0 | Category: ANIMALS | Date: Thu Dec 25 15:20:41 2025
+adil | Score: 20 | Category: ANIMALS | Date: Thu Dec 25 15:21:56 2025
