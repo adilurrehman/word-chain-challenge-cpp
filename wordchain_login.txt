@@ -1,1 +1,19 @@
-adil adil
+adil adil 40
+adil 0 40
+d "e:\CS-4 Worspace\Semester
+1\Programming Fundamentals\Final Semester
+Project\Words Chain Final
+Project\word-chain-challenge-cpp-main\" && g++
+words-chain-game.cpp -o words-chain-game
+&& "e:\CS-4 Worspace\Semester
+1\Programming Fundamentals\Final Semester
+Project\Words Chain Final
+Project\word-chain-challenge-cpp-main\"words-chain-game 0 0"
+Stop-Process -Name "words-chain-game"
+-Force -ErrorAction SilentlyContinue;
+Set-Content -Path "e:\CS-4
+Worspace\Semester 1\Programming Fundamentals\Final
+Semester Project\Words Chain
+Final Project\word-chain-challenge-cpp-main\wordchain_login.txt" -Value
+"adil adil 0"
+ad ad 0
